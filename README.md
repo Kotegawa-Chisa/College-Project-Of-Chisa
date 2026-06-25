@@ -1,0 +1,1 @@
+Pairs is the team project for the CS109 Introduction to Computer Programming of 2026. The project implements a simple link and cancel game, where players can link pairs of items and cancel them to score points.
