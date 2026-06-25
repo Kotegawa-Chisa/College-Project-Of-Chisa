@@ -1,0 +1,10 @@
+*.class
+target/
+out/
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+*.log
