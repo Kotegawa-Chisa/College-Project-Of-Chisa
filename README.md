@@ -1,3 +1,3 @@
-# College-Project-Of-Chisa
-Chisa's College Course Projects and Vacation Creations
-Pairs is the team project for the CS109 Introduction to Computer Programming of 2026. The project implements a simple link and cancel game, where players can link pairs of items and cancel them to score points.
+# Chisa's College Course Projects and Vacation Creations
+"This repo holds Chisa's college projects and vacation tinkerings.
+I'm a total noob right now, and my goal is to become a mega noob."
